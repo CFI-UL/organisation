@@ -45,10 +45,9 @@ Projet étudiant.
 
 Le logo du est une réalisation de [Jules Coupal-Lafleur](https://ca.linkedin.com/in/jules-coupal-lafleur-2a200415b).
 
-- [assets/logo/CFI.png](assets/logo/CFI.png)
-- [assets/logo/CFI-text.png](assets/logo/CFI-text.png)
-
-Le logo est aussi disponible en _svg_ et _jpg_.
+- emoji: [png](assets/logo/CFI-emoji.png)
+- avec text: [png](assets/logo/CFI-text.png), [jpg](assets/logo/CFI-text.jpg), [svg](assets/logo/CFI-text.svg)
+- sans text: [png](assets/logo/CFI.png), [jpg](assets/logo/CFI.jpg), [svg](assets/logo/CFI.svg)
 
 ### Fondation
 
