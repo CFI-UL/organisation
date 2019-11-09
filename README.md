@@ -9,11 +9,13 @@
 - [Slack (invitation)](http://slack.cfiul.ca/)
 - [GitHub](https://github.com/CFI-UL/)
 
-Calendrier
+#### Calendrier
+
   - [Événements](https://calendar.google.com/calendar?cid=dmY3bXU0cXUwZ2ZyaHUycnJkbnAwZnN2ZGdAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
   - [Organisation](https://calendar.google.com/calendar?cid=MWg1aXJydTNyOTJrbW4wbzhrMWZpZnAyYTRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
-Médias sociaux
+#### Médias sociaux
+
   - [Facebook (page)](https://www.facebook.com/cfiul/)
   - [Facebook (group)](https://www.facebook.com/groups/281680249003676/)
   - [Twitter](https://twitter.com/cfiul)
@@ -48,6 +50,10 @@ Le logo du est une réalisation de [Jules Coupal-Lafleur](https://ca.linkedin.co
 
 Le logo est aussi disponible en _svg_ et _jpg_.
 
+### Fondation
+
+Septembre 2017
+
 ### Description
 
 Le CFI (Compétitions et Formations Informatiques) est la première délégation représentant les étudiants du domaine informatique de l'Université Laval dans les nombreuses compétitions informatiques d'Amérique du Nord.
@@ -65,7 +71,7 @@ Pour ce faire, le CFI organise de nombreux ateliers d'une à trois heures, des j
 - Avoir assez d'argent pour payer la totalité des billets pour les compétitions
 - Encourager la présentation d'atelier par les étudiants
 - Encourager la présentation d'atelier par les sponsors du CFI
-- Encourager la diversité de spécialisation dans la communauté du CFI.
+- Encourager la diversité de spécialisation dans la communauté du CFI
 
 👎🏻 Ce qu'on ne fait pas :
 
